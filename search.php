@@ -4,13 +4,13 @@
     $dbUsername = 'root';
     $dbPassword = 'root';
     $dbName = 'autocomplete';
-    
+
     //connect with the database
     $db = new mysqli($dbHost,$dbUsername,$dbPassword,$dbName);
-    
+
     //get search term
     $searchTerm = $_GET['term'];
-    
+
     //get matched data from skills table
     $result = $db->query("SELECT * FROM skills WHERE skill LIKE '%".$searchTerm."%' ORDER BY skill ASC");
 
@@ -37,5 +37,3 @@
 
     header('Content-Type: application/json');
     echo json_encode($dataArr);
-
-
