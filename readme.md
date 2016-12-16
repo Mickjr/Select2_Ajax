@@ -1,5 +1,5 @@
 ###################
-<h1>CodeIgniter 3.1.2</h1>
+<h2>CodeIgniter 3.1.2</h2>
 ###################
 
 <pre>CodeIgniter is an Application Development Framework - a toolkit - for people
