@@ -4,5 +4,4 @@
 
 <pre>Using select2 with ajax to populate the select2. JQuery based replacement
 for select boxes. It supports searching, remote data sets, and infinite scrolling
- of results. A jQuery based replacement for select boxes. It supports searching,
- remote data sets, and infinite scrolling of results.</pre>
+ of results. A jQuery based replacement for select boxes.</pre>
