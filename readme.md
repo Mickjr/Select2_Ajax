@@ -1,5 +1,5 @@
 ###################
-<h2>Code Igniter 3.1.2</h2>
+<h1>CodeIgniter 3.1.2</h1>
 ###################
 
 <pre>CodeIgniter is an Application Development Framework - a toolkit - for people
@@ -12,7 +12,7 @@ for a given task. </pre>
 
 
 ###################
-<h1> Select 2 - AJAX </h1>
+<h2> Select 2 - AJAX </h2>
 ###################
 
 <pre>Using select2 with ajax to populate the select2. JQuery based replacement
